@@ -1,0 +1,20 @@
+{
+    "name": "htmlendtagbystarttag",
+    "version": "1.0.0",
+    "description": "You are implementing your own HTML editor. To make it more comfortable for developers you would like to add an auto-completion feature to it.",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/jeferson-franco/HTMLEndTagByStartTag.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/jeferson-franco/HTMLEndTagByStartTag/issues"
+    },
+    "homepage": "https://github.com/jeferson-franco/HTMLEndTagByStartTag#readme"
+}
